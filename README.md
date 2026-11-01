@@ -9,3 +9,6 @@ encore et encore!!!!!!!!
 encore et encore!!!!!!!!
 encore et encore!!!!!!!!
 une modif encore pour regler un conflit de merge.
+Maintenant le concept est bien compris du coup 
+On commence l'exploration de github avec joie
+
