@@ -5,3 +5,7 @@ encore et encore!!!!!!!!
 encore et encore!!!!!!!!
 encore et encore!!!!!!!!
 encore et encore!!!!!!!!
+encore et encore!!!!!!!!
+encore et encore!!!!!!!!
+encore et encore!!!!!!!!
+une modif encore pour regler un conflit de merge.
